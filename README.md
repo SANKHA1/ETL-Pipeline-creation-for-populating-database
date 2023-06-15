@@ -1,5 +1,7 @@
 ## Description
 ---
+
+This project looks at data modelling for a fictitious music startup Sparkify, applying STAR schema to ingest data to simplify queries that answers business questions the product owner may have.
 This repo provides the ETL pipeline, to populate the sparkifydb database.  
 * The purpose of this database is to enable Sparkify to answer business questions it may have of its users, the types of songs they listen to and the artists of those songs using the data that it has in logs and files. The database provides a consistent and reliable source to store this data.
 
